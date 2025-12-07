@@ -1,0 +1,5 @@
+1001|Raushan Kumar|19|BTech CSE|raushankr95a@gmail.com|3.78|3
+1002|Satwik Gupta|19|BTech CSE|satwik@gmail.com|3.9|100
+1003|Jayesh Krishna|19|BTech CSE|jayesh@gmail.com|3.9|3
+1004|Alok Kumar|19|BTech CSE|alok@gmail.com|3.9|3
+445454|fgndnmfs|21|grtrtrgtgerg|ththtyhty@gmail.com|5.6|90
